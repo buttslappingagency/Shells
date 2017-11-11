@@ -1,0 +1,13 @@
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\bin\Release\BSA's Shells.exe.config
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\bin\Release\BSA's Shells.exe
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\bin\Release\BSA's Shells.pdb
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\Interop.Shell32.dll
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.csproj.ResolveComReference.cache
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA_s_Shells.Form1.resources
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA_s_Shells.Form2.resources
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA_s_Shells.Properties.Resources.resources
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.csproj.GenerateResource.Cache
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.exe
+C:\Users\Burned!\documents\visual studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.pdb
+C:\Users\Burned!\Documents\Visual Studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.csprojResolveAssemblyReference.cache
+C:\Users\Burned!\Documents\Visual Studio 2017\Projects\BSA's Shells\BSA's Shells\obj\Release\BSA's Shells.csproj.CoreCompileInputs.cache
